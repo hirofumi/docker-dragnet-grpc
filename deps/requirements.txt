@@ -1,0 +1,8 @@
+dragnet==2.0.4
+ftfy==4.4.3
+grpcio==1.28.1
+html5lib==1.0.1
+scikit-learn==0.20.4
+six==1.14.0
+wcwidth==0.1.9
+webencodings==0.5.1
