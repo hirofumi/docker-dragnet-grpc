@@ -1,4 +1,4 @@
-Cython==0.29.18
+Cython==0.29.19
 lxml==4.5.0
 numpy==1.18.4
 scipy==1.3.3
