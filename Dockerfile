@@ -1,4 +1,4 @@
-FROM alpine:3.11.6
+FROM alpine:3.12.0
 
 COPY deps /tmp/deps
 RUN apk add --no-cache --virtual .runtime freetype libgcc libgfortran libpng libstdc++ libxml2 libxslt musl openblas python3 zlib \
