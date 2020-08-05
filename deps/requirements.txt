@@ -1,6 +1,6 @@
 dragnet==2.0.4
 ftfy==5.7
-grpcio==1.30.0
+grpcio==1.31.0
 html5lib==1.0.1
 scikit-learn==0.20.4
 six==1.15.0
