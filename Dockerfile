@@ -1,4 +1,4 @@
-FROM alpine:3.12.2
+FROM alpine:3.12.3
 
 COPY deps /tmp/deps
 RUN echo 'http://dl-cdn.alpinelinux.org/alpine/v3.10/main' >> /etc/apk/repositories \
